@@ -1,1 +1,1 @@
-# This has been move to Universal Scripts
+# This has been moved to Universal Scripts
